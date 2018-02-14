@@ -1,0 +1,76 @@
+body {
+    margin: 3% 10% 0 10%;
+    background: grey;
+    
+    text-align: center;
+    max-width: 960px;
+    max-height: 960px;
+    
+}
+
+header {
+    background: green;
+    height: 75px;
+    margin-bottom: 2%;
+    padding: 1% 0 0 0;
+    color: white;
+}
+
+nav {
+    background: orchid;
+    height: 75px;
+    margin-bottom: 2%;
+    padding: 2% 0 0 0;
+    color: white;
+}
+
+.wrapper {
+    background: white;
+    height: 80%;
+    width: 60%;
+    float: left;
+    text-align: center;
+
+}
+
+h1 {
+    height: 30%;
+    background: red;
+   margin: 4% 5% 0 5%;
+   padding: 5% 0 0 0;
+   color: white;
+}
+
+p {
+    margin: 2% 5% 0 5%;
+    height: 30%;
+    background: purple;
+    padding: 5% 0 0 0;
+    color: white;
+    
+}
+
+.article {
+
+    background: yellowgreen;
+    height: 80%;
+    margin: 7% 4% 1% 4%;
+    padding: 5% 0 -5% 0;
+    color: white;
+}
+
+.aside {
+    background: yellow;
+    height: 80%;
+    width: 37%;
+    float: right;
+    color: black;
+}
+
+footer {
+    height: 10%;
+    background: orange;
+    color: white;
+    margin-top: 600;
+    
+}
